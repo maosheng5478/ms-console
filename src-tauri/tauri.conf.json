@@ -50,7 +50,7 @@
         "providerShortName": null,
         "signingIdentity": null
       },
-      "resources": ["./data/record.json"],
+      "resources": ["./data/record.json", "./data/config.json"],
       "shortDescription": "Modern Console App",
       "targets": "all",
       "windows": {
