@@ -1,0 +1,1 @@
+export const SIDER_MENU_LENGTH = 140;
